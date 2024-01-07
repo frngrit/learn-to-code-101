@@ -3,7 +3,7 @@
 ## Intoduction ✍🏼
 Welcome to the 'Learn how to code 101' repository! This resource is designed to guide beginners with no prior coding experience on their journey to becoming proficient software developers.
 
-_P.S. This repository refers to [***this video***](www.tiktok.com/@frngrit/video/7318419449801936133)_
+_P.S. This repository is associated with [***this tiktok chanel***](https://www.tiktok.com/@frngrit)_
 
 ## Getting Started 🚀
 
