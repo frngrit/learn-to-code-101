@@ -48,3 +48,5 @@ Before diving into the exercises, ensure you have the following:
 - [**Mimo App**](https://mimo.org/): A mobile app offering diverse learning modules, including HTML, CSS, Object-Oriented Programming in Python, and SQL.
 - [**W3 School**](https://www.w3schools.com/python/): A beginner-friendly resource for getting acquainted with various programming languages.
 - [**Fullstack Roadmap**](https://roadmap.sh/full-stack): An excellent reference to assess the skills needed for full-stack development. Note that while it provides a comprehensive path, it's not mandatory to follow every step; use it as a guide to identify and focus on the skills relevant to your goals.
+- [**TypeScript CrashCourse**](https://www.youtube.com/watch?v=BCg4U1FzODs&t=826s): the name said it all. 😂
+- [**MERN stack**](https://www.youtube.com/watch?v=-0exw-9YJBo): MongoDb, Express, React, NodeJs.
