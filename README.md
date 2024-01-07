@@ -11,9 +11,11 @@ _P.S. This repository refers to [***this video***](www.tiktok.com/@frngrit/video
 
 Before diving into the exercises, ensure you have the following:
 
+- 🧑🏼‍💻 [**Coding**](https://www.w3schools.com/python/): Ensure that you've covered the basics of Python programming with guidance from [**this resource**](https://www.w3schools.com/python/).
+
 - 🐍 [**Python**](https://www.python.org/downloads/): Make sure you have Python installed on your machine. You can download it from python.org.
 
-- 📝 Text Editor/IDE: Choose a text editor or integrated development environment (IDE) of your choice. Some popular options include [**Visual Studio Code (recommended)**](https://code.visualstudio.com/download), PyCharm, or Atom.
+- 📝 **Text Editor/IDE**: Choose a text editor or integrated development environment (IDE) of your choice. Some popular options include [**Visual Studio Code (recommended)**](https://code.visualstudio.com/download), PyCharm, or Atom.
 
 - 🗄️ [**Git**](https://git-scm.com/downloads): Install Git to version control your code and easily collaborate with others. You can download it from git-scm.com.
 
@@ -36,3 +38,10 @@ Before diving into the exercises, ensure you have the following:
 4. Edit the answer file, using your preferred text editor or IDE. For instance: ```code cash_atm.py```
 
 5. Run the tests to validate your solution: ```python -m unittest``` or ```python3 -m unittest```
+
+## Additional Resources
+
+- [**CS50**](https://cs50.harvard.edu/x/2024/)
+- [**CS50 Web Programming**](https://cs50.harvard.edu/web/2020/)
+- [**Mimo App**](https://mimo.org/)
+- [**W3 School**](https://www.w3schools.com/python/)
