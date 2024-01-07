@@ -11,7 +11,7 @@ _P.S. This repository is associated with [***this tiktok chanel***](https://www.
 
 Before diving into the exercises, ensure you have the following:
 
-- 🧑🏼‍💻 [**Coding**](https://www.w3schools.com/python/): Ensure that you've covered the basics of Python programming with guidance from [**this resource**](https://www.w3schools.com/python/).
+- 🧑🏼‍💻 [**Coding**](https://www.w3schools.com/python/): Make sure you've grasped the fundamentals of Python programming by following the content provided in [**this resource**](https://www.w3schools.com/python). Aim to cover topics from '**Python Intro**' up to '**Python Functions**' to build a strong foundation.
 
 - 🐍 [**Python**](https://www.python.org/downloads/): Make sure you have Python installed on your machine. You can download it from python.org.
 
@@ -38,6 +38,8 @@ Before diving into the exercises, ensure you have the following:
 4. Edit the answer file, using your preferred text editor or IDE. For instance: ```code cash_atm.py```
 
 5. Run the tests to validate your solution: ```python -m unittest``` or ```python3 -m unittest```
+
+## Next Steps (WIP)
 
 ## Additional Resources
 
