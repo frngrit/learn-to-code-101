@@ -15,7 +15,7 @@ Before diving into the exercises, ensure you have the following:
 
 - 🐍 [**Python**](https://www.python.org/downloads/): Make sure you have Python installed on your machine. You can download it from python.org.
 
-- 📝 **Text Editor/IDE**: Choose a text editor or integrated development environment (IDE) of your choice. Some popular options include [**Visual Studio Code (recommended)**](https://code.visualstudio.com/download), PyCharm, or Atom.
+- 📝 [**Text Editor/IDE**](https://code.visualstudio.com/download): Choose a text editor or integrated development environment (IDE) of your choice. Some popular options include [**Visual Studio Code (recommended)**](https://code.visualstudio.com/download), PyCharm, or Atom.
 
 - 🗄️ [**Git**](https://git-scm.com/downloads): Install Git to version control your code and easily collaborate with others. You can download it from git-scm.com.
 
