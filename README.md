@@ -47,3 +47,4 @@ Before diving into the exercises, ensure you have the following:
 - [**CS50 Web Programming**](https://cs50.harvard.edu/web/2020/): Ideal for those looking to delve deeper into web programming, covering advanced topics such as ReactJs, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), security, and scalability.
 - [**Mimo App**](https://mimo.org/): A mobile app offering diverse learning modules, including HTML, CSS, Object-Oriented Programming in Python, and SQL.
 - [**W3 School**](https://www.w3schools.com/python/): A beginner-friendly resource for getting acquainted with various programming languages.
+- [**Fullstack Roadmap**](https://roadmap.sh/full-stack): An excellent reference to assess the skills needed for full-stack development. Note that while it provides a comprehensive path, it's not mandatory to follow every step; use it as a guide to identify and focus on the skills relevant to your goals.
